@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi Stalker 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeow14&langs_count=8&layout=compact&theme=synthwave)](https://github.com/catgoesmeow14/github-readme-stats)
+
+- ⚡ Fun fact: I Like Enhypen, esp Heeseung
 <!--
 **catgoesmeow14/catgoesmeow14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
