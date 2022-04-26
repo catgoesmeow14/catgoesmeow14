@@ -1,4 +1,6 @@
 ### Hi Stalker 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=catgoesmeow14.catgoesmeow14)
+[![Github](https://img.shields.io/github/followers/catgoesmeow14?label=Follow&style=social)](https://github.com/catgoesmeow14)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeow14&langs_count=8&layout=compact&theme=synthwave)](https://github.com/catgoesmeow14/github-readme-stats)
 
