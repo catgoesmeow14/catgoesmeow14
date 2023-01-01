@@ -10,6 +10,7 @@
 <a href="www.linkedin.com/in/vidya-chandradev">
   <img align="left" alt="Vidy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+[Linkedin](www.linkedin.com/in/vidya-chandradev)
 
 <!--
 **catgoesmeow14/catgoesmeow14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
