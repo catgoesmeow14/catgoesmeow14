@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I Like Enhypen, esp Heeseung
 - 🌱 I’m currently learning Machine Learning algorithm
 
-[Linkedin] (www.linkedin.com/in/vidya-chandradev)
+[Linkedin](www.linkedin.com/in/vidya-chandradev)
 
 <!--
 **catgoesmeow14/catgoesmeow14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
