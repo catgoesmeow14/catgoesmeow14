@@ -7,10 +7,6 @@
 - ⚡ Fun fact: I Like Enhypen, esp Heeseung
 - 🌱 I’m currently learning Machine Learning algorithm
 
-<a href="www.linkedin.com/in/vidya-chandradev">
-  <img align="left" alt="Vidy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 [Linkedin] (www.linkedin.com/in/vidya-chandradev)
 
 <!--
