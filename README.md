@@ -4,10 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeow14&langs_count=8&layout=compact&theme=synthwave)](https://github.com/catgoesmeow14/github-readme-stats)
 
-- ⚡ Fun fact: I Like Enhypen, esp Heeseung
 - 🌱 I’m currently learning Machine Learning algorithm
+- 😄 Pronouns: She/Her ofc
+- ⚡ Fun fact: I Like Enhypen, esp Heeseung
+- ⚡ (Another) Fun fact: I love playin Genshin Impact (Kazuha Kaedahara is my FAV)
 
-[Linkedin](www.linkedin.com/in/vidya-chandradev)
+### [My Linkedin](www.linkedin.com/in/vidya-chandradev)
 
 <!--
 **catgoesmeow14/catgoesmeow14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
