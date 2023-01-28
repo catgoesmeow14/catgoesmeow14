@@ -2,14 +2,12 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=catgoesmeow14.catgoesmeow14)
 [![Github](https://img.shields.io/github/followers/catgoesmeow14?label=Follow&style=social)](https://github.com/catgoesmeow14)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeow14&langs_count=8&layout=compact&theme=synthwave)](https://github.com/catgoesmeow14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeow14&langs_count=10&layout=compact&theme=radical)](https://github.com/catgoesmeow14/github-readme-stats)
 
 - 🌱 I’m currently learning Machine Learning algorithm
 - 😄 Pronouns: She/Her ofc
 - ⚡ Fun fact: I Like Enhypen, esp Heeseung
 - ⚡ (Another) Fun fact: I love playin Genshin Impact (Kazuha Kaedahara is my FAV)
-
-### [My Linkedin](www.linkedin.com/in/vidya-chandradev)
 
 <!--
 **catgoesmeow14/catgoesmeow14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
