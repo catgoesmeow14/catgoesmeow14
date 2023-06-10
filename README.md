@@ -11,11 +11,11 @@
 
 ## Skills and Interests
 
-- Python
-- ReactJS
-- Next.js
-- TypeScript
-- Tableau
+![Python](https://img.icons8.com/color/48/000000/python.png) &nbsp;
+![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) &nbsp;
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) &nbsp;
+![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
 
 ## GitHub Stats
 
