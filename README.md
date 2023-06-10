@@ -1,13 +1,25 @@
-### Hi Stalker 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=catgoesmeow14.catgoesmeow14)
+# Hi there, I'm [Vidya] 👋
+
 [![Github](https://img.shields.io/github/followers/catgoesmeow14?label=Follow&style=social)](https://github.com/catgoesmeow14)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeow14&langs_count=10&layout=compact&theme=radical)](https://github.com/catgoesmeow14/github-readme-stats)
+## About Me
 
-- 🌱 I’m currently learning Machine Learning algorithm
-- 😄 Pronouns: She/Her ofc
-- ⚡ Fun fact: I Like Enhypen, esp Heeseung
-- ⚡ (Another) Fun fact: I love playin Genshin Impact (Kazuha Kaedahara is my FAV) 
+- 🌱 I’m currently learning Machine Learning algorithms.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I'm a big fan of Enhypen, especially Heeseung.
+- ⚡ (Another) Fun fact: I love playing Genshin Impact (Kaedahara Kazuha is my favorite character).
+
+## Skills and Interests
+
+- Python
+- ReactJS
+- Next.js
+- TypeScript
+- Tableau
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeow14&langs_count=10&layout=compact&theme=radical)](https://github.com/catgoesmeow14/github-readme-stats)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vidya-chandradev/">
