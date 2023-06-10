@@ -1,10 +1,11 @@
 # Hi there, I'm [Vidya] 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=catgoesmeow14.catgoesmeow14)
 [![Github](https://img.shields.io/github/followers/catgoesmeow14?label=Follow&style=social)](https://github.com/catgoesmeow14)
 
 ## About Me
 
-- 🌱 I’m currently learning Machine Learning algorithms.
+- 🌱 I’m currently learning Machine Learning algorithms and Next.js.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I'm a big fan of Enhypen, especially Heeseung.
 - ⚡ (Another) Fun fact: I love playing Genshin Impact (Kaedahara Kazuha is my favorite character).
