@@ -12,10 +12,14 @@
 ## Skills and Interests
 
 ![Python](https://img.icons8.com/color/48/000000/python.png) &nbsp;
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) &nbsp;
 ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) &nbsp;
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) &nbsp;
+![SQL](https://img.icons8.com/color/48/000000/sql.png) &nbsp;
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
+
 
 ## GitHub Stats
 
