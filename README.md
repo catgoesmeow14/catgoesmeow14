@@ -1,4 +1,4 @@
-# Hi there, I'm {Vidya} 👋
+# Hi there, I'm { Vidya } 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=catgoesmeow14.catgoesmeow14)
 [![Github](https://img.shields.io/github/followers/catgoesmeow14?label=Follow&style=social)](https://github.com/catgoesmeow14)
@@ -6,7 +6,8 @@
 ## About Me ✨
 
 - 🌱 **Tech Explorer:** Diving into Robotic Process Automation and Deep Learning, with a current crush on Next.js
-- 👾 **Fun Side:** Big [Enhypen](https://www.youtube.com/playlist?list=PLMQ4WMltba-GshOjhZBypZnY-e9E2iUfU) fan here (Heeseung-i, you rock!), and I'm virtually adventuring in Genshin Impact with Kaedahara Kazuha
+- 👾 **Fun Side:** Big [***ENHYPEN***](https://www.youtube.com/playlist?list=PLMQ4WMltba-GshOjhZBypZnY-e9E2iUfU) fan here (Heeseung-i, you rock!), and I'm virtually adventuring in ***Genshin Impact*** with Kaedahara Kazuha
+
 - 🌏 **Global Mindset:** Love collaborating internationally, embracing cultural diversity in tech
 - 🚀 **Skill Arsenal:** Mixing it up with Python, Ruby, JavaScript, React Native, React.js, and Tableau
 - 🤖 **Efficiency Guru:** From RPA wizardry to Mendix mastery, I'm all about smart solutions
