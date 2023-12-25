@@ -3,16 +3,23 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=catgoesmeow14.catgoesmeow14)
 [![Github](https://img.shields.io/github/followers/catgoesmeow14?label=Follow&style=social)](https://github.com/catgoesmeow14)
 
-## About Me
+## About Me ✨
 
-- 🌱 I’m currently learning Machine Learning algorithms and Next.js.
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I'm a big fan of Enhypen, especially Heeseung.
-- ⚡ (Another) Fun fact: I love playing Genshin Impact (Kaedahara Kazuha is my favorite character).
+- 🌱 **Tech Explorer:** Diving into Robotic Process Automation and Deep Learning, with a current crush on Next.js.
+- 👾 **Fun Side:** Big Enhypen fan here (Heeseung-i, you rock!), and I'm virtually adventuring in Genshin Impact with Kaedahara Kazuha.
+- 🌏 **Global Mindset:** Love collaborating internationally, embracing cultural diversity in tech.
+- 🚀 **Skill Arsenal:** Mixing it up with Python, Ruby, JavaScript, React.js, and Tableau. There’s always a new code challenge around the corner~
+- 🤖 **Efficiency Guru:** From RPA wizardry to Mendix mastery, I'm all about smart solutions.
+- 🎨 **UX Enthusiast:** Crafting user experiences that click is my kind of art. Figma and React Native are my canvases.
+- 💬 **Team Dynamo:** A leader when needed, a team player always. Communication and goal alignment are my mantras.
+- 😂 **Laughter Advocate:** Tech is serious, but I’m not always. Love a good meme, a gaming gag, and of course, anime and K-Pop!
+
+Ready to weave some tech magic? Let's do this! 🌠💻
 
 ## Skills and Interests
 
 ![Python](https://img.icons8.com/color/48/000000/python.png) &nbsp;
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) &nbsp;
 ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) &nbsp;
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
