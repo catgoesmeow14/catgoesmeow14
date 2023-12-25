@@ -5,14 +5,14 @@
 
 ## About Me ✨
 
-- 🌱 **Tech Explorer:** Diving into Robotic Process Automation and Deep Learning, with a current crush on Next.js.
-- 👾 **Fun Side:** Big Enhypen fan here (Heeseung-i, you rock!), and I'm virtually adventuring in Genshin Impact with Kaedahara Kazuha.
-- 🌏 **Global Mindset:** Love collaborating internationally, embracing cultural diversity in tech.
-- 🚀 **Skill Arsenal:** Mixing it up with Python, Ruby, JavaScript, React.js, and Tableau. There’s always a new code challenge around the corner~
-- 🤖 **Efficiency Guru:** From RPA wizardry to Mendix mastery, I'm all about smart solutions.
-- 🎨 **UX Enthusiast:** Crafting user experiences that click is my kind of art. Figma and React Native are my canvases.
-- 💬 **Team Dynamo:** A leader when needed, a team player always. Communication and goal alignment are my mantras.
-- 😂 **Laughter Advocate:** Tech is serious, but I’m not always. Love a good meme, a gaming gag, and of course, anime and K-Pop!
+- 🌱 **Tech Explorer:** Diving into Robotic Process Automation and Deep Learning, with a current crush on Next.js
+- 👾 **Fun Side:** Big Enhypen fan here (Heeseung-i, you rock!), and I'm virtually adventuring in Genshin Impact with Kaedahara Kazuha
+- 🌏 **Global Mindset:** Love collaborating internationally, embracing cultural diversity in tech
+- 🚀 **Skill Arsenal:** Mixing it up with Python, Ruby, JavaScript, React Native, React.js, and Tableau
+- 🤖 **Efficiency Guru:** From RPA wizardry to Mendix mastery, I'm all about smart solutions
+- 🎨 **UX Enthusiast:** Crafting user experiences that click is my kind of art. Figma and FigJam are my canvases
+- 💬 **Team Dynamo:** A leader when needed, a team player always. Communication and goal alignment are my mantras
+- 😂 **Laughter Advocate:** Tech is serious, but I’m not always. Love good meme, gaming gag, and of course, anime and K-Pop
 
 Ready to weave some tech magic? Let's do this! 🌠💻
 
