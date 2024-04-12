@@ -19,29 +19,33 @@
 </div>
 
 ## About Me ✨
-  
-- 🌱 **Tech Explorer:** Diving into Robotic Process Automation and Deep Learning, with a current crush on Next.js
-- 🌏 **Global Mindset:** Love collaborating internationally, embracing cultural diversity in tech
-- 🚀 **Skill Arsenal:** Mixing it up with Python, Ruby, JavaScript, React Native, React.js, and Tableau
-- 🤖 **Efficiency Guru:** From RPA wizardry to Mendix mastery, I'm all about smart solutions
-- 🎨 **UX Enthusiast:** Crafting user experiences that click is my kind of art. Figma and FigJam are my canvases
-- 💬 **Team Dynamo:** A leader when needed, a team player always. Communication and goal alignment are my mantras
-- 👾 **Fun Side:** Big [***ENHYPEN***](https://www.youtube.com/playlist?list=PLMQ4WMltba-GshOjhZBypZnY-e9E2iUfU) fan here (Heeseung-i, you rock!), and I'm virtually adventuring in ***Genshin Impact*** with Kaedahara Kazuha
-- 😂 **Laughter Advocate:** Tech is serious, but I’m not always. Love good meme, gaming gag, and of course, anime and K-Pop
 
-Ready to weave some tech magic? Let's do this! 🌠💻
+- 📘 **Lifelong Learner:** Excited about expanding my knowledge in NLP and continuously growing as a data enthusiast.
+- 🌱 **Tech Explorer:** Journeying through the realms of Deep Learning, SQL, and Robotic Process Automation, with a keen interest in JavaScript frameworks like Next.js.
+- 🌏 **Global Mindset:** Passionate about bridging cultures in tech through international collaboration and embracing diversity.
+- 🚀 **Skill Arsenal:** Developing skills in Python, Tableau, Ruby, and JavaScript, including React.js, with a focus on data-driven solutions.
+- 🤖 **Efficiency Guru:** Leveraging RPA and Mendix to devise intelligent, streamlined solutions that enhance productivity.
+- 🎨 **UX Enthusiast:** Dedicated to designing intuitive user experiences using Tableau Dashboards, Figma, and FigJam.
+- 💬 **Team Dynamo:** Committed to leading with empathy and aligning team goals through effective communication.
+- 👾 **Curious Explorer:** A fan of ***ENHYPEN***, and exploring virtual worlds in ***Genshin Impact*** with Kaedahara Kazuha and ***Honkai Star Rail*** with JingYuan.
+- 😂 **Laughter Advocate:** Balancing the seriousness of tech with a love for memes, gaming gags, and pop culture from anime to K-Pop.
+
+
+
+#### Let's connect and create something amazing together! 🌠💻
+
 
 ## Skills and Interests
 
 ![Python](https://img.icons8.com/color/48/000000/python.png) &nbsp;
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) &nbsp;
+![SQL](https://img.icons8.com/color/48/000000/sql.png) &nbsp;
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) &nbsp;
+![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) &nbsp;
 ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) &nbsp;
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) &nbsp;
-![SQL](https://img.icons8.com/color/48/000000/sql.png) &nbsp;
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) &nbsp;
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
 
 
 ## GitHub Stats
