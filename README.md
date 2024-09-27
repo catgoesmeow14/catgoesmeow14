@@ -13,8 +13,8 @@
   <a href="https://medium.com/@vidyachan">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/>
   </a> &nbsp;
-  <a href="https://vidy-verse.vercel.app/">
-    <img src="https://img.shields.io/badge/Vidy--Verse-6F42C1?style=for-the-badge&logo=placeholder&logoColor=white" alt="Vidy-Verse Badge"/>
+  <a href="https://vidycode.vercel.app/">
+    <img src="https://img.shields.io/badge/vidycode-6F42C1?style=for-the-badge&logo=placeholder&logoColor=white" alt="Vidy-Verse Badge"/>
 </a>
 </div>
 
