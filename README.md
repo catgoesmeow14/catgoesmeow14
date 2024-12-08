@@ -1,4 +1,6 @@
-# Hi there, I'm { Vidya } 👋
+# Hi there, I'm { Vidya } [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7175J3C) 👋
+
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=catgoesmeow14.catgoesmeow14)
 [![Github](https://img.shields.io/github/followers/catgoesmeow14?label=Follow&style=social)](https://github.com/catgoesmeow14)
@@ -17,6 +19,8 @@
     <img src="https://img.shields.io/badge/vidycode-6F42C1?style=for-the-badge&logo=placeholder&logoColor=white" alt="Vidy-Verse Badge"/>
 </a>
 </div>
+
+
 
 ## About Me ✨
 
